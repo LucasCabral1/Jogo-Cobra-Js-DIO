@@ -1,0 +1,14 @@
+body{
+    height: 95vh;
+   
+}
+#jogo-cobra{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#pontos{
+    font-size: 20px;
+}
+
